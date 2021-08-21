@@ -1,7 +1,8 @@
 ### Houston, We have a solution 🚀
 
-<!--
-**maxmlnfschr/maxmlnfschr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Maximiliano. I like to keep up to date with new technologies and the progress of mankind towards conquering new worlds.
+
+I'm an engineering student and programmer. I'm tickled by all this.
 
 - 🔭 I’m currently working on my skills ...
 - 👯 Collaborate on new projects is amazing ...
@@ -9,9 +10,9 @@
 - 📫 How to reach me: imaximilianofischer@gmail.com
 - 😄 Pronouns: Max/Okabe ...
 - ⚡ Fun fact: ... I'm curious.
--->
 
-### Hot Links 🔥
 
-📸 Instagram: https://www.instagram.com/maxmlnfschr/
-🐤 Twitter: https://twitter.com/maxmlnfschr
+### My Hot links 🔥
+
+- 📸 Instagram: https://www.instagram.com/maxmlnfschr/
+- 🐤 Twitter: https://twitter.com/maxmlnfschr
